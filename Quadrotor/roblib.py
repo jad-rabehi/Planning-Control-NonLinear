@@ -1,8 +1,8 @@
 #available at https://www.ensta-bretagne.fr/jaulin/roblib.py 
-# For help : https://www.ensta-bretagne.fr/jaulin/python.html  
+ 
 # used in KalMOOC :  https://www.ensta-bretagne.fr/jaulin/kalmooc.html
 # used in RobMOOC :  https://www.ensta-bretagne.fr/jaulin/robmooc.html
-# used in KalMOOC :  https://www.ensta-bretagne.fr/jaulin/inmooc.html
+
 
 
 import numpy as np
