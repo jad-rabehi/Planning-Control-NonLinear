@@ -20,10 +20,10 @@ Run the code for one or two robots with:
 * Localization of two robot:
 
 <p align="center">
-  <img width="750" src="images/GoniometricLocalization2.gif">
+  <img width="650" src="images/GoniometricLocalization2.gif">
 </p>
 
-The blue and green ellipses represent the Covariance Matrices for each robot, which define the estimation errors.
+The blue and green ellipses represent the Covariance Matrices for each robot, which characterize the estimation errors.
 
 ---
 

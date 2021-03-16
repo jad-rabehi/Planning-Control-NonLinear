@@ -2,8 +2,10 @@
 # Plane Altitude Control
 ---
 
+
 Control of a small fully autonomous plane. The model used, here, to describe its dynamics, is very strongly inspired by that of
-Faser Ultra Stick *Klein E.M.V. et., al (2006)*
+Faser Ultra Stick by *Klein E.M.V. et., al (2006)*
+
 ---
 
 ## Instructions

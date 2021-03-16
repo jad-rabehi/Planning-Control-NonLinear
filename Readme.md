@@ -1,7 +1,7 @@
-# Path Plannig and Control for Robotic Systems
+# Plannig and Control for Robotic Systems
 ---
 
-Codes in this repository are mainly based on my simulations done while following the MOOC [RobMOOC](https://www.ensta-bretagne.fr/jaulin/robmooc.html) by Prof. Luc Jaulin about *Control of Nonlinear Robotic Systems*.
+Codes in this repository are mainly based on my simulations done while following the MOOC [RobMOOC](https://www.ensta-bretagne.fr/jaulin/robmooc.html) by Prof. Luc Jaulin, on *Control of Nonlinear Robotic Systems*.
 
 Almost of codes are in Matlab, but there are some of them in Python.
 
@@ -10,6 +10,7 @@ Almost of codes are in Matlab, but there are some of them in Python.
 
 * [Quadrotor Control](https://github.com/jad-rabehi/Planning-Control-NonLinear/tree/main/Quadrotor) in Python
 * [Reaction Wheel Control](https://github.com/jad-rabehi/Planning-Control-NonLinear/tree/main/ReactionWheel) in Python
+* [Energy-basd control of Cart-pole system](https://github.com/jad-rabehi/Planning-Control-NonLinear/tree/main/Cart-pole) in Matlab
 * [Path planning using Bezier Polynom](https://github.com/jad-rabehi/Planning-Control-NonLinear/tree/main/Bezier-Polynom-Path) in Matlab
 * [Crank control based on kinematic model](https://github.com/jad-rabehi/Planning-Control-NonLinear/tree/main/Crank) in Matlab
 * [Mobile robot localization using kalman filter](https://github.com/jad-rabehi/Planning-Control-NonLinear/tree/main/Goniometric-localization) in Matlab

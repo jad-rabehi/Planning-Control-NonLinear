@@ -13,7 +13,7 @@ with
 You should obtain the following :
 
 <p align="center">
-  <img width="750" src="PenduliumAnimated2.gif">
+  <img width="600" src="PenduliumAnimated2.gif">
 </p>
 
 ---
