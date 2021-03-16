@@ -1,6 +1,10 @@
+
 # Plane Altitude Control
 ---
-...
+
+Control of a small fully autonomous plane. The model used, here, to describe its dynamics, is very strongly inspired by that of
+Faser Ultra Stick *Klein E.M.V. et., al (2006)*
+---
 
 ## Instructions
 
@@ -17,7 +21,7 @@ Run the code, in the workspace, with:
 ## Result
 
 
-* Control the plane for two setpoint of Altitude as given in green line in the following figure:
+* Control the plane to follow two setpoint of Altitude as given in green line in the following figure:
 
 <p align="center">
   <img width="600" src="images/PlaneAnimation.gif">
@@ -32,6 +36,11 @@ and
 
 
 ---
+
+## References
+
+*  Klein E.M.V. , Aircraft System Identification: Theory And Practice , American Institute
+of Aeronautics and Astronautics, 2006.
 
 
 
