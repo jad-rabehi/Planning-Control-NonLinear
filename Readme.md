@@ -1,4 +1,4 @@
-# Path plannig and Control for some robotic systems
+# Path Plannig and Control for Robotic Systems
 ---
 
 Codes in this repository are mainly based on my simulations done while following the MOOC [RobMOOC](https://www.ensta-bretagne.fr/jaulin/robmooc.html) by Prof. Luc Jaulin about *Control of Nonlinear Robotic Systems*.
