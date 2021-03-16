@@ -1,6 +1,6 @@
 # Backstepping Control of a Quadrotor
 ---
- The Quadrotor is controller using backstepping technique to follow a Van der Pool cycle while staying in a given attitude.
+ The Quadrotor is controller using backstepping technique to follow a Van der Pool cycle while staying in a given altitude.
 
 
 ---
