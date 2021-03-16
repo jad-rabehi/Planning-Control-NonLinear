@@ -2,7 +2,6 @@
 ---
  In this simulation, fully actuated 2-DoF manipulator robot is controlled using it kinematic model. The robot end effector have to follow a circle path.
 
-The dynamic model is assumed neglected. This assumption stay correcte with low velocities and accelerations.
 
 ---
 ## Instructions
