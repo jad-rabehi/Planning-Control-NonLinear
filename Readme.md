@@ -29,9 +29,9 @@ In Python, the following librairies have to be installed: *math*, *numpy*, *matp
 
 ## References
 
-* (RobMOOC web page)[https://www.ensta-bretagne.fr/jaulin/robmooc.html]
-* (RobMOOC.pdf)[https://www.ensta-bretagne.fr/jaulin/robmooc.pdf]
-* (Underactuated-robotics, MIT)[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/readings/MIT6_832s09_read_ch03.pdf]
+* [RobMOOC web page](https://www.ensta-bretagne.fr/jaulin/robmooc.html)
+* [RobMOOC.pdf](https://www.ensta-bretagne.fr/jaulin/robmooc.pdf)
+* [Underactuated robotics, chapter 3, MIT, spring 2009](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/readings/MIT6_832s09_read_ch03.pdf)
 
 
 
